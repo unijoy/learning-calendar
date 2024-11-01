@@ -267,5 +267,5 @@ description: "牛津阅读树（Oxford Reading Tree）"
 
 Happy Reading!
 
-[Sat Naing](https://satnaing.dev) <br/>
+[孟卓](#) <br/>
 Creator of vduoduo
