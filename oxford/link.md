@@ -4,7 +4,7 @@ pubDatetime: 2024-09-01T09:30:41.816Z
 title: 牛津阅读树
 slug: "oxford"
 featured: true
-ogImage: ../../assets/images/AstroPaper-v4.png
+ogImage: https://res.cloudinary.com/dflvyxvty/image/upload/v1730813608/66d4bbc9ca1d2f5c46be3f9da793fda5.webp
 tags:
 
   - oxford
@@ -27,7 +27,7 @@ tags:
 description: "牛津阅读树（Oxford Reading Tree）"
 ---
 
-![Oxford Reading Tree 牛津阅读树](/assets/primary_literacy_ort_mosaic_banner.jpeg)
+![Oxford Reading Tree 牛津阅读树](https://res.cloudinary.com/dflvyxvty/image/upload/v1730813474/e998a361eb79420d62beef2e29add1af.jpg)
 
 牛津阅读树（Oxford Reading Tree）是牛津大学出版社推出的知名阅读计划，旨在帮助儿童提高阅读能力。该计划在英国及全球许多小学广泛使用，提供了800多本适合不同阅读水平和体裁的图书。
 
@@ -35,7 +35,7 @@ description: "牛津阅读树（Oxford Reading Tree）"
 
 牛津阅读树设计了结构化的分级体系，使其成为课堂和家庭阅读的理想选择，帮助孩子们逐步提升阅读信心和技能。该系列通过重复的语言模式、熟悉的角色和贴近生活的情节来帮助孩子们积累词汇，提升理解力，并培养他们对阅读的终身热爱。
 
-![Oxford Reading Tree 牛津阅读树](https://home.oxfordowl.co.uk/wp-content/uploads/2022/06/114_ORT-1.png)
+![Oxford Reading Tree 牛津阅读树](https://res.cloudinary.com/dflvyxvty/image/upload/v1730813608/66d4bbc9ca1d2f5c46be3f9da793fda5.webp)
 
 ## Table of contents
 
@@ -43,7 +43,7 @@ description: "牛津阅读树（Oxford Reading Tree）"
 
 牛津阅读树的图书分为20个阅读等级，从孩子刚开始在学前班（Reception）学习阅读到六年级成为流利的读者，逐步提供支持。这些等级与一般的“图书分级颜色”（Book Bands）相匹配。
 
-![牛津阅读树级别和版本指南](https://cdn.oxfordowl.co.uk/2019/07/19/13/52/18/160/OxfordLevelsAndBookBands.png)
+![牛津阅读树级别和版本指南](https://res.cloudinary.com/dflvyxvty/image/upload/v1730813609/a4b093d74918df2f36a85ca81d41cb3d.png)
 
 ### Level 1 
 
@@ -57,7 +57,7 @@ description: "牛津阅读树（Oxford Reading Tree）"
 
 **_相当于：_**书本分级颜色“淡紫色” | 牛津阅读分级第1级
 
-![Taken from The Hedgehog.](https://home.oxfordowl.co.uk/wp-content/uploads/2022/06/Oxford-Level-1-spread-1-1.png)
+![Taken from The Hedgehog.](https://res.cloudinary.com/dflvyxvty/image/upload/v1730813647/1dda0fdb0c392acd89939e125ccb81a8.webp)
 
 ### Level 1+ 
 
@@ -69,7 +69,7 @@ description: "牛津阅读树（Oxford Reading Tree）"
 
 **_相当于：_**书本分级颜色“粉色” | 牛津阅读分级第1级
 
-![Taken from A Dragon Balloon.](https://home.oxfordowl.co.uk/wp-content/uploads/2022/06/Oxford-Level-1-spread-dragon-balloon-1.png)
+![Taken from A Dragon Balloon.](https://res.cloudinary.com/dflvyxvty/image/upload/v1730813649/91b928f1d63c849fcad70e48f2e23729.webp)
 
 ### Level 2 
 
@@ -83,7 +83,7 @@ description: "牛津阅读树（Oxford Reading Tree）"
 
 **_相当于：_**书本分级颜色“红色” | 牛津阅读分级第2级
 
-![Taken from Jack.](https://home.oxfordowl.co.uk/wp-content/uploads/2022/06/Oxford-Level-2-spread-Jack-1.png)
+![Taken from Jack.](https://res.cloudinary.com/dflvyxvty/image/upload/v1730813651/462f5b9de6723a5aae0c4c3a27f4c975.webp)
 
 ### Level 3 
 
@@ -96,7 +96,7 @@ description: "牛津阅读树（Oxford Reading Tree）"
 
 **_相当于：_**书本分级颜色“黄色” | 牛津阅读分级第2级
 
-![Taken from The Right Home.](https://home.oxfordowl.co.uk/wp-content/uploads/2022/06/Oxford-Level-3-spread-right-home-1.png)
+![Taken from The Right Home.](https://res.cloudinary.com/dflvyxvty/image/upload/v1730813656/20500463481b1b0e53870940452cbfce.webp)
 
 ### Level 4 
 
@@ -108,7 +108,7 @@ description: "牛津阅读树（Oxford Reading Tree）"
 
 **_相当于：_**书本分级颜色“浅蓝色” | 牛津阅读分级第3级
 
-![Taken from The Stinky Plant.](https://home.oxfordowl.co.uk/wp-content/uploads/2022/06/Oxford-Level-4-spread-1.png)
+![Taken from The Stinky Plant.](https://res.cloudinary.com/dflvyxvty/image/upload/v1730813662/ff59f45b54b5c5cd13814582eeaa7015.webp)
 
 ### Level 5 
 
@@ -122,7 +122,7 @@ description: "牛津阅读树（Oxford Reading Tree）"
 
 **_相当于：_**书本分级颜色“绿色” | 牛津阅读分级第3级
 
-![Taken from The Parachute.](https://home.oxfordowl.co.uk/wp-content/uploads/2022/06/Oxford-Level-5-spread-1.png)
+![Taken from The Parachute.](https://res.cloudinary.com/dflvyxvty/image/upload/v1730813665/c72f075044e02082574f68df0c0534ba.webp)
 
 ### Level 6 
 
@@ -136,7 +136,7 @@ description: "牛津阅读树（Oxford Reading Tree）"
 
 **_相当于：_**书本分级颜色“橙色” | 牛津阅读分级第4级
 
-![Taken from Who Eats Who.](https://home.oxfordowl.co.uk/wp-content/uploads/2022/06/Oxford-Level-6-spread-1.png)
+![Taken from Who Eats Who.](https://res.cloudinary.com/dflvyxvty/image/upload/v1730813668/ae936786b9cb5cdfac4e04cc95e6f089.webp)
 
 ### Level 7 
 
@@ -148,7 +148,7 @@ description: "牛津阅读树（Oxford Reading Tree）"
 
 **_相当于：_**书本分级颜色“青色” | 牛津阅读分级第4级
 
-![Taken from Planet Exis.](https://home.oxfordowl.co.uk/wp-content/uploads/2022/06/Oxford-Level-7-spread-1.png)
+![Taken from Planet Exis.](https://res.cloudinary.com/dflvyxvty/image/upload/v1730813670/a217ffc9233d9f04a15d4d9e7f6b2fc5.webp)
 
 ### Level 8 
 
@@ -160,7 +160,7 @@ description: "牛津阅读树（Oxford Reading Tree）"
 
 **_相当于：_**书本分级颜色“紫色”和“棕色” | 牛津阅读分级第5级
 
-![Taken from Mini Marvels.](https://home.oxfordowl.co.uk/wp-content/uploads/2022/06/Oxford-Level-8-Spread-mini-marvels-1.png)
+![Taken from Mini Marvels.](https://res.cloudinary.com/dflvyxvty/image/upload/v1730813672/68a257fec2d2e33de0fe08bb5fa0e57e.webp)
 
 ### Level 9 
 
@@ -172,7 +172,7 @@ description: "牛津阅读树（Oxford Reading Tree）"
 
 **_相当于：_**书本分级颜色“金色”和“棕色” | 牛津阅读分级第5级
 
-![Taken from False Alarms.](https://home.oxfordowl.co.uk/wp-content/uploads/2022/06/Oxford-Level-9-spread-1.png)
+![Taken from False Alarms.](https://res.cloudinary.com/dflvyxvty/image/upload/v1730813674/060ef22f44f9ce2520d17142bcc47792.webp)
 
 
 ## 牛津阅读树包含哪些系列？
